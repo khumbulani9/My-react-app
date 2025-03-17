@@ -28,6 +28,6 @@
 
 ## Credits
 
-Khumbulani worked on this repository and contributed to the code.
+mduduzi K worked on this repository and contributed to the code.
 
   
