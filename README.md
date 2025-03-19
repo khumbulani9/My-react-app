@@ -8,7 +8,7 @@
 * [License](#license)
 
   # My-react-portfolio-project
-The React project is very important, with regards to showcasing the skills and abilities i have learned whilst undertaking the course. My React portfolio which i am building will have demonstrate this and further improve my chances of landing a position within the web development.
+The React project is very important, with regards to showcasing the skills and abilities i have learned whilst undertaking the course. My React portfolio which i am building will have demonstrate this and further improve my chances of landing a position within the web development. The website is built with responsive and imaginative, personal portfolio using React, Vite, and TailwindCSS, showcasing modern web development techniques including smooth animations, with an interactive UI. 
 
 
   ## Acceptance criteria
@@ -25,8 +25,26 @@ When images of the applications are clicked then the user is taken to that deplo
 
 When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
 
+## Insatallation
+Clone the repository:
+
+git clone https://github.com/your-username/your-portfolio.git
+cd your-portfolio
+Install dependencies:
+
+npm install
+Start the development server:
+
+npm run dev
 
 
+## Build 
+To create a production build, run:
+
+npm run build
+Then, you can preview the production build with:
+
+npm run preview
   
 ## Screenshots
 
