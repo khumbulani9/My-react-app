@@ -38,7 +38,7 @@ Start the development server:
 npm run dev
 
 
-## Build 
+## Usage
 To create a production build, run:
 
 npm run build
