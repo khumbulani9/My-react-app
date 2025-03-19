@@ -3,7 +3,7 @@
 * [Description of the assignment](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Link to the Site]() [https://khumbulani9.github.io/Food-Feeder/]
+* [Link to the Site]() []
 * [Credits](#credits)
 * [License](#license)
 
